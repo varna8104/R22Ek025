@@ -1,0 +1,8 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Frontend logging helper",
+  "type": "module",
+  "main": "log.js",
+  "license": "MIT"
+}
